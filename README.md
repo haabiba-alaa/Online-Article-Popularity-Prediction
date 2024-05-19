@@ -85,7 +85,10 @@ Our models successfully predicted the popularity of online articles with varying
 Thanks to the dedicated development team:
 
 Habiba Alaa
+
 Malak Raafat
+
 Rana Wahid
+
 Mariam Yossri
 
