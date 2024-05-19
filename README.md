@@ -80,3 +80,12 @@ Detailed results for both regression and classification models are included in t
 ## Conclusion
 
 Our models successfully predicted the popularity of online articles with varying degrees of accuracy. The feature selection techniques significantly improved model performance by focusing on the most relevant features.
+
+## Acknowledgments
+Thanks to the dedicated development team:
+
+Habiba Alaa
+Malak Raafat
+Rana Wahid
+Mariam Yossri
+
