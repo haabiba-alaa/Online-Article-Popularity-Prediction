@@ -15,6 +15,10 @@ This repository contains our project on predicting the popularity of online arti
   - [Classification Models](#classification-models)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Usage](#usage)
+- [Acknowledgments](#acknowledgments)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 
@@ -82,13 +86,10 @@ Detailed results for both regression and classification models are included in t
 Our models successfully predicted the popularity of online articles with varying degrees of accuracy. The feature selection techniques significantly improved model performance by focusing on the most relevant features.
 
 ## Acknowledgments
+
 Thanks to the dedicated development team:
 
-Habiba Alaa
-
-Malak Raafat
-
-Rana Wahid
-
-Mariam Yossri
-
+- Habiba Alaa
+- Malak Raafat
+- Rana Wahid
+- Mariam Yossri
